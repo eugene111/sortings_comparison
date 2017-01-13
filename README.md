@@ -1,1 +1,1 @@
-<p>Sortings Comparison Project! Changed</p>
+<p>Sortings Comparison</p>
